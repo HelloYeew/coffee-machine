@@ -1,2 +1,2 @@
 # coffee-machine
-First project in Java language from JetBrains Academy.
+First project in Java language that I study from JetBrains Academy.
