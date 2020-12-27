@@ -1,0 +1,30 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3787#comment
+status: Failed
+feedback:
+  message: |+
+    Failed test #2 of 7. Time limit exceeded
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    100 15 120
+    Correct output:
+    2
+
+    Your code output:
+
+  time: Tue, 01 Dec 2020 17:20:53 UTC
+record: -1
